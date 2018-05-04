@@ -1,0 +1,4 @@
+//直接分割二維陣列
+aryCont=this.contact.split(",").map(function(e){
+         return e.split(";")
+ });
